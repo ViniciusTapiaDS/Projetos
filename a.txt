@@ -1,5 +1,4 @@
 Testando
-<<<<<<< Updated upstream
 Uma
 Atualização
 de Arquivo
@@ -7,5 +6,4 @@ de Arquivo
 enviando 
 a funcionalidade 
 xx
-=======
->>>>>>> Stashed changes
+enviando a funcionalidade b
